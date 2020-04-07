@@ -44,7 +44,7 @@ function setup(){
 
 function draw(){
 
-    //background(255,255,0);
+    background(255,255,0);
     
     for(let i=0; i<num_w; i++){
         for(let j=0; j<num_h; j++){
